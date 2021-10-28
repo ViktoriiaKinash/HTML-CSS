@@ -1,0 +1,21 @@
+body{
+   max-weight:100%
+    height:auto;
+background-image: url('https://techcrunch.com/wp-content/uploads/2016/10/facebook-groups1.jpg');
+}
+.center{
+  text-align:center;
+}
+
+#survey-form{
+  background-color: rgba(102, 140, 216, 0.9);
+  border-radius:20px;
+ display:grid;
+  justify-content: center;
+  padding: 10px 20px 10px 20px; 
+ width:600px;
+  margin:auto;
+}
+button:hover{
+  background-color:blue;
+}
